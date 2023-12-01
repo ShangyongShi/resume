@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Ph.D.
+  uni: Florida State University
+  year: 2021.1 &mdash; 2024.7 (expected)
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 1st place in student oral presentation in Hydrology session in AMS2023
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Science
+  uni: Florida State University
+  year: 2018.9 &mdash;2020.12
+
+- degree: Bachelor of Science
+  uni: Nanjing University, China
+  year: 2014.9 &mdash;2018.6
+  awards: 
+    - award: National Scholarship
+    - award: University-level Outstanding Student
+    - award: College-level Outstanding Student Leader

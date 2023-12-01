@@ -1,10 +1,14 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+#- award: Outstanding Achievement
+#  organization: Springfield Young Professionals
+#  year: 2010, 2014
+#  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional # accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- summary: 1.	<b>Shi, S.</b>, Fan, Y., Dong, J., and Meng, H (2023). Developing a machine learning algorithm to  improve orographic snowfall retrieval from satellite passive microwave sensors. (In preparation)
+- summary: 2.	<b>Shi, S.</b>, & Liu, G (2023). Investigation on the snow-to-precipitation ratio in the US based on satellite data. (In preparation)
+- summary: 3.	<b>Shi, S.*</b>, & Liu, G (2023). Classifying precipitation phase with atmospheric soundings based on upper-level energy. (Submitted to JGR-Atmosphere, in review)
+- summary: 4.	Jeoung, H., <b>Shi, S.</b>, & Liu, G. (2022). A novel approach to validate satellite snowfall retrievals by ground-based point measurements. <i>Remote Sensing</i>, 14(3), 434. https://doi.org/10.3390/rs14030434
+- summary: 5.	<b>Shi, S.*</b>, & Liu, G. (2021). The latitudinal dependence in the trend of snow event to precipitation event ratio. <i>Scientific Reports</i>, 11(1), 18112. https://doi.org/10.1038/s41598-021-97451-9
+- summary: 6.	<b>Shi, S.</b>, & Misra, V. (2020). The role of extreme rain events in Peninsular Florida’s seasonal hydroclimate variations. <i>Journal of Hydrology</i>, 589, 125182. https://doi.org/10.1016/j.jhydrol.2020.125182
+
